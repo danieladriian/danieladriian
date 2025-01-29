@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/mailto:danieladrian661@gmail.com?igsh=MTkwaWdnZHp2YnFzYg==)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_adriian?igsh=MTkwaWdnZHp2YnFzYg==)<br/>
 
-🌱 Atualmente estou aprendendo Phyton, JavaScript.<br/>
+💡 Atualmente estou aprendendo Phyton, JavaScript.<br/>
 🌎 De Salvador, BA - Brasil<br/>
 🎓 Cursando Análise e Desenvolvimento de Sistemas na UniRuy Wyden - Salvador.<br/>
 
