@@ -4,6 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieladriian/)
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com/mailto:danieladrian661@gmail.com?igsh=MTkwaWdnZHp2YnFzYg==)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel_adriian?igsh=MTkwaWdnZHp2YnFzYg==)<br/>
+### ℹ️SOBRE MIM
 
 💡 Atualmente estou aprendendo Phyton, JavaScript.<br/>
 🌎 De Salvador, BA - Brasil<br/>
